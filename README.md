@@ -1,4 +1,4 @@
-Rocket Simulation
+# Rocket Simulation
 
 Rocket simulation that tracks the position, velocity, and acceleration of a model rocket. Designed for ENGR100 (980) Rocket Science.
 

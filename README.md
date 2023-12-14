@@ -1,3 +1,5 @@
+Rocket Simulation
+
 Rocket simulation that tracks the position, velocity, and acceleration of a model rocket. Designed for ENGR100 (980) Rocket Science.
 
 Simulation design has 3 major components We wanted our simulation to be able to accurately predict the position, velocity, and acceleration of a model rocket throughout the entire flight while allowing a high degree of customization to the user. To accomplish this we wrote our program in C++ to allow us to easily calculate the 3 variables at every moment of the flight. Our final simulation package performs 3 major functions: impact assessment module, terminal velocity monitoring, and rocket launch prediction.
